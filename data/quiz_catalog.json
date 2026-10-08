@@ -1,0 +1,68 @@
+{
+    "subjects": [
+        {
+            "id": "mpsc-c",
+            "title": "MPSC Group-C Services",
+            "description": "Comprehensive preparation for Maharashtra Group-C Services.",
+            "icon": "🏛️",
+            "topics": [
+                {
+                    "id": "lr",
+                    "title": "Logical Reasoning",
+                    "tests": [
+                        {
+                            "id": "syl-pyq",
+                            "title": "Syllogism PYQs",
+                            "duration": "10 Mins",
+                            "questions": [
+                                {
+                                    "q": "[Asked in MPSC State Services Prelims 2019] Read the statements and conclusions carefully.<br><br><b>Statements:</b><br>1. Some slippers are chairs.<br>2. All chairs are mats.<br><br><b>Conclusions:</b><br>I. Some slippers are mats.<br>II. All mats are chairs.",
+                                    "options": ["Only conclusion I follows.", "Only conclusion II follows.", "Both conclusions I and II follow.", "Neither conclusion I nor II follows."],
+                                    "answer": "Only conclusion I follows."
+                                },
+                                {
+                                    "q": "[Asked in MPSC Combine Group B Prelims 2020] Assuming the statements to be true, decide which conclusion logically follows.<br><br><b>Statements:</b><br>1. All biscuits are wafers.<br>2. No biscuit is a candy.<br><br><b>Conclusions:</b><br>I. All candies are biscuits.<br>II. No wafer is a biscuit.",
+                                    "options": ["Only conclusion I follows.", "Only conclusion II follows.", "Both conclusions I and II follow.", "Neither conclusion I nor II follows."],
+                                    "answer": "Neither conclusion I nor II follows."
+                                },
+                                {
+                                    "q": "[Asked in MPSC Combine Group C Prelims 2021] Read the given statements and conclusions carefully.<br><br><b>Statements:</b><br>1. All rugs are perfumes.<br>2. All shoes are perfumes.<br><br><b>Conclusions:</b><br>I. Some rugs are shoes.<br>II. Some perfumes are shoes.",
+                                    "options": ["Only conclusion I follows.", "Only conclusion II follows.", "Both conclusions I and II follow.", "Neither conclusion I nor II follows."],
+                                    "answer": "Only conclusion II follows."
+                                },
+                                {
+                                    "q": "[Asked in MPSC State Services Prelims 2018] Decide which of the given conclusions logically follow(s) from the statements.<br><br><b>Statements:</b><br>1. Some hands are legs.<br>2. No leg is a mouth.<br><br><b>Conclusions:</b><br>I. All mouths are legs.<br>II. No leg is a hand.",
+                                    "options": ["Only conclusion I follows.", "Only conclusion II follows.", "Both conclusions I and II follow.", "Neither conclusion I nor II follows."],
+                                    "answer": "Neither conclusion I nor II follows."
+                                },
+                                {
+                                    "q": "[Asked in MPSC Tax Assistant Prelims 2017] Read the statements and conclusions carefully.<br><br><b>Statements:</b><br>1. All papers are books.<br>2. All books are papayas.<br><br><b>Conclusions:</b><br>I. All papers are papayas.<br>II. Some papayas are papers.",
+                                    "options": ["Only conclusion I follows.", "Only conclusion II follows.", "Both conclusions I and II follow.", "Neither conclusion I nor II follows."],
+                                    "answer": "Both conclusions I and II follow."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "blood-rel",
+                            "title": "Blood Relations",
+                            "duration": "15 Mins",
+                            "questions": []
+                        }
+                    ]
+                },
+                {
+                    "id": "apt",
+                    "title": "Quantitative Aptitude",
+                    "tests": []
+                }
+            ]
+        },
+        {
+            "id": "upsc",
+            "title": "UPSC Civil Services",
+            "description": "IAS, IPS, IFS preparation modules.",
+            "icon": "🇮🇳",
+            "topics": []
+        }
+    ]
+}

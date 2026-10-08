@@ -1,0 +1,623 @@
+{
+  "subjectName": "Mathematics",
+  "topics": [
+    {
+      "name": "Percentage",
+      "id": "percentage1",
+      "sets": [
+        {
+          "id": "percentage1_set1",
+          "name": "Percentage Set 1",
+          "questions": [
+            {
+              "id": 1,
+              "topic": "Percentage Basics",
+              "question": "What is 25% of 400?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "50"
+                },
+                {
+                  "id": "B",
+                  "text": "75"
+                },
+                {
+                  "id": "C",
+                  "text": "100"
+                },
+                {
+                  "id": "D",
+                  "text": "125"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "100"
+            },
+            {
+              "id": 2,
+              "topic": "Percentage of a Number",
+              "question": "In a class of 50 students, 60% are girls. How many boys are there in the class?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "15"
+                },
+                {
+                  "id": "B",
+                  "text": "20"
+                },
+                {
+                  "id": "C",
+                  "text": "25"
+                },
+                {
+                  "id": "D",
+                  "text": "30"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "20"
+            },
+            {
+              "id": 3,
+              "topic": "Percentage Increase",
+              "question": "30% of 200 is what number?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "40"
+                },
+                {
+                  "id": "B",
+                  "text": "50"
+                },
+                {
+                  "id": "C",
+                  "text": "60"
+                },
+                {
+                  "id": "D",
+                  "text": "70"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "60"
+            },
+            {
+              "id": 4,
+              "topic": "Percentage of a Number",
+              "question": "What number should be added to 30% of 200 to get 100?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "20"
+                },
+                {
+                  "id": "B",
+                  "text": "30"
+                },
+                {
+                  "id": "C",
+                  "text": "40"
+                },
+                {
+                  "id": "D",
+                  "text": "50"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "40"
+            },
+            {
+              "id": 5,
+              "topic": "Loss Percentage",
+              "question": "An item has a cost price of Rs. 500 and is sold for Rs. 400. What is the loss percentage?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "10%"
+                },
+                {
+                  "id": "B",
+                  "text": "15%"
+                },
+                {
+                  "id": "C",
+                  "text": "20%"
+                },
+                {
+                  "id": "D",
+                  "text": "25%"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "20%"
+            },
+            {
+              "id": 6,
+              "topic": "Percentage Calculation",
+              "question": "What is 38% of 1255 plus 62% of 1920?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "16.67"
+                },
+                {
+                  "id": "B",
+                  "text": "1.667"
+                },
+                {
+                  "id": "C",
+                  "text": "0.1667"
+                },
+                {
+                  "id": "D",
+                  "text": "1667.3"
+                }
+              ],
+              "correctAnswer": "D",
+              "answer": "1667.3"
+            },
+            {
+              "id": 7,
+              "topic": "Percentage Comparison",
+              "question": "The salary of A is Rs. 18,800 and the salary of B is Rs. 4,000. The salary of A is what percentage of the salary of B?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "450%"
+                },
+                {
+                  "id": "B",
+                  "text": "470%"
+                },
+                {
+                  "id": "C",
+                  "text": "480%"
+                },
+                {
+                  "id": "D",
+                  "text": "490%"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "470%"
+            },
+            {
+              "id": 8,
+              "topic": "Percentage Comparison",
+              "question": "P earns Rs. 5200 and Q earns Rs. 3400. By what percentage is P's salary greater than Q's salary?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "29.54%"
+                },
+                {
+                  "id": "B",
+                  "text": "52.94%"
+                },
+                {
+                  "id": "C",
+                  "text": "34.61%"
+                },
+                {
+                  "id": "D",
+                  "text": "59.52%"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "52.94%"
+            },
+            {
+              "id": 9,
+              "topic": "Discount",
+              "question": "An item costs Rs. 7500. A shopkeeper gives a discount of 20%. What is the selling price of the item?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Rs. 6050"
+                },
+                {
+                  "id": "B",
+                  "text": "Rs. 6000"
+                },
+                {
+                  "id": "C",
+                  "text": "Rs. 7000"
+                },
+                {
+                  "id": "D",
+                  "text": "Rs. 7500"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "Rs. 6000"
+            },
+            {
+              "id": 10,
+              "topic": "Loss Percentage",
+              "question": "A shopkeeper buys an item for Rs. 1760 and sells it for Rs. 1720. What is the loss percentage?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "2.27%"
+                },
+                {
+                  "id": "B",
+                  "text": "3.2%"
+                },
+                {
+                  "id": "C",
+                  "text": "4.3%"
+                },
+                {
+                  "id": "D",
+                  "text": "5%"
+                }
+              ],
+              "correctAnswer": "A",
+              "answer": "2.27%"
+            },
+            {
+              "id": 11,
+              "topic": "Percentage of a Number",
+              "question": "If 40% of a number is 120, what is 55% of that number?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "165"
+                },
+                {
+                  "id": "B",
+                  "text": "175"
+                },
+                {
+                  "id": "C",
+                  "text": "180"
+                },
+                {
+                  "id": "D",
+                  "text": "195"
+                }
+              ],
+              "correctAnswer": "A",
+              "answer": "165"
+            },
+            {
+              "id": 12,
+              "topic": "Salary and Percentage",
+              "question": "A person spends 40% of their salary on household expenses. If their salary is Rs. 10,000, how much do they spend on household expenses?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Rs. 3000"
+                },
+                {
+                  "id": "B",
+                  "text": "Rs. 4000"
+                },
+                {
+                  "id": "C",
+                  "text": "Rs. 5000"
+                },
+                {
+                  "id": "D",
+                  "text": "Rs. 6000"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "Rs. 4000"
+            },
+            {
+              "id": 13,
+              "topic": "Percentage and Mixture",
+              "question": "A 30-liter mixture contains 60% alcohol. How much water is present in the mixture?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "10 liters"
+                },
+                {
+                  "id": "B",
+                  "text": "12 liters"
+                },
+                {
+                  "id": "C",
+                  "text": "15 liters"
+                },
+                {
+                  "id": "D",
+                  "text": "18 liters"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "12 liters"
+            },
+            {
+              "id": 14,
+              "topic": "Profit and Loss",
+              "question": "Seema buys an item for Rs. 9600 and sells it at a 5% loss. With the money received, she buys another item and sells it at a 5% profit. What is the overall result?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Rs. 36 loss"
+                },
+                {
+                  "id": "B",
+                  "text": "Rs. 24 profit"
+                },
+                {
+                  "id": "C",
+                  "text": "Rs. 54 loss"
+                },
+                {
+                  "id": "D",
+                  "text": "None of these"
+                }
+              ],
+              "correctAnswer": "D",
+              "answer": "Rs. 24 loss"
+            }
+          ]
+        },
+        {
+          "id": "percentage1_set2",
+          "name": "Percentage Set 2",
+          "questions": [
+            {
+              "id": 15,
+              "topic": "Percentage of a Number",
+              "question": "If 25% of two-thirds of a number is 10, what is the number?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "75"
+                },
+                {
+                  "id": "B",
+                  "text": "120"
+                },
+                {
+                  "id": "C",
+                  "text": "60"
+                },
+                {
+                  "id": "D",
+                  "text": "30"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "60"
+            },
+            {
+              "id": 16,
+              "topic": "Percentage Calculation",
+              "question": "What is 3/5% of 80%?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "40 × 10^4"
+                },
+                {
+                  "id": "B",
+                  "text": "48 × 10^3"
+                },
+                {
+                  "id": "C",
+                  "text": "4.8 × 10^-3"
+                },
+                {
+                  "id": "D",
+                  "text": "4.8 × 10^7"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "4.8 × 10^-3"
+            },
+            {
+              "id": 17,
+              "topic": "Fraction to Percentage",
+              "question": "Convert 3/(6 1/4) into percentage.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "18%"
+                },
+                {
+                  "id": "B",
+                  "text": "48%"
+                },
+                {
+                  "id": "C",
+                  "text": "52%"
+                },
+                {
+                  "id": "D",
+                  "text": "66%"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "48%"
+            },
+            {
+              "id": 18,
+              "topic": "Percentage of a Quantity",
+              "question": "What is 2 1/2% of 5 liters?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "125 ml"
+                },
+                {
+                  "id": "B",
+                  "text": "1250 ml"
+                },
+                {
+                  "id": "C",
+                  "text": "525 ml"
+                },
+                {
+                  "id": "D",
+                  "text": "750 ml"
+                }
+              ],
+              "correctAnswer": "A",
+              "answer": "125 ml"
+            },
+            {
+              "id": 19,
+              "topic": "Percentage and Mixture",
+              "question": "60 liters of milk contains 15% cream and 40 liters of milk contains 8% cream. If both are mixed together, what will be the percentage of cream in the mixture?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "87.8%"
+                },
+                {
+                  "id": "B",
+                  "text": "12.2%"
+                },
+                {
+                  "id": "C",
+                  "text": "1220%"
+                },
+                {
+                  "id": "D",
+                  "text": "122%"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "12.2%"
+            },
+            {
+              "id": 20,
+              "topic": "Percentage Comparison",
+              "question": "Arpita scored 20% fewer marks than Ajay. By what percentage did Ajay score more marks than Arpita?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "25%"
+                },
+                {
+                  "id": "B",
+                  "text": "20%"
+                },
+                {
+                  "id": "C",
+                  "text": "5%"
+                },
+                {
+                  "id": "D",
+                  "text": "10%"
+                }
+              ],
+              "correctAnswer": "A",
+              "answer": "25%"
+            },
+            {
+              "id": 21,
+              "topic": "Successive Percentage Decrease",
+              "question": "60% of 150 is subtracted from 150, and then 60% is subtracted again from the resulting number. By how much is the original number reduced?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "96"
+                },
+                {
+                  "id": "B",
+                  "text": "54"
+                },
+                {
+                  "id": "C",
+                  "text": "90"
+                },
+                {
+                  "id": "D",
+                  "text": "30"
+                }
+              ],
+              "correctAnswer": "A",
+              "answer": "96"
+            },
+            {
+              "id": 22,
+              "topic": "Successive Percentage Increase",
+              "question": "The fare of a railway ticket is increased by Rs. 20 and after some months it is increased again by Rs. 10. What is the total percentage increase over the original fare?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "24%"
+                },
+                {
+                  "id": "B",
+                  "text": "18%"
+                },
+                {
+                  "id": "C",
+                  "text": "40%"
+                },
+                {
+                  "id": "D",
+                  "text": "32%"
+                }
+              ],
+              "correctAnswer": "D",
+              "answer": "32%"
+            },
+            {
+              "id": 23,
+              "topic": "Percentage and Consumption",
+              "question": "The price of tea powder increases by 25%. By what percentage should the consumption of tea powder be reduced so that the expenditure remains unchanged?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "25%"
+                },
+                {
+                  "id": "B",
+                  "text": "20%"
+                },
+                {
+                  "id": "C",
+                  "text": "30%"
+                },
+                {
+                  "id": "D",
+                  "text": "15%"
+                }
+              ],
+              "correctAnswer": "B",
+              "answer": "20%"
+            },
+            {
+              "id": 24,
+              "topic": "Percentage and Sets",
+              "question": "Candidates appearing for a bank examination took tests in English and Mathematics. 75% passed English, 80% passed Mathematics, and 18% failed in both subjects. If 292 candidates passed in both subjects, how many candidates appeared for the examination?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "300"
+                },
+                {
+                  "id": "B",
+                  "text": "350"
+                },
+                {
+                  "id": "C",
+                  "text": "400"
+                },
+                {
+                  "id": "D",
+                  "text": "450"
+                }
+              ],
+              "correctAnswer": "C",
+              "answer": "400"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
